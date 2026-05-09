@@ -1,0 +1,8 @@
+git init
+git config --local user.name " "
+git config --local user.email " "
+git branch -M main
+git add . 
+git commit -m "versión de subida"
+git push -u origin main 
+git status

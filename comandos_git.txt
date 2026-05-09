@@ -6,3 +6,5 @@ git add .
 git commit -m "versión de subida"
 git push -u origin main 
 git status
+git remote add origin
+cambio
